@@ -34,4 +34,3 @@
   
 ---
 
-⭐️ Don’t forget to **star** your favorite projects!
