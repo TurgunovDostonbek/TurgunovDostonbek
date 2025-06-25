@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Dostonbek</h1>
+<h1 align="center">Hi 👋, I'm Turgunov Dostonbek</h1>
 <h3 align="center">A passionate Frontend Developer from Uzbekistan</h3>
 
 - 🔭 I’m currently working on **JavaScript & React projects**
-- 🌱 I’m currently learning **Next.js & TypeScript**
+- 🌱 I’m currently learning **HTML & Css & Sass(SCss) & Js & React**
 - 💡 I enjoy solving coding problems on [Leetcode](https://leetcode.com/TurgunovDostonbek/)
-- 📫 How to reach me: **turgunov.dostonbek@example.com**
+- 📫 How to reach me: **...**
 - ⚡ Fun fact: I love turning coffee into code ☕️💻
 
 ---
@@ -33,8 +33,8 @@
 ### 🔗 Let's connect
 
 - [Leetcode](https://leetcode.com/TurgunovDostonbek/)
-- [LinkedIn (optional)](https://linkedin.com/in/your-link)
-- [Telegram (optional)](https://t.me/your-username)
+- [LinkedIn (optional)]([https://linkedin.com/in/your-link](https://www.linkedin.com/feed/))
+- [Telegram (optional)](@Tme0813)
 
 ---
 
