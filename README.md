@@ -20,21 +20,14 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
----
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TurgunovDostonbek&show_icons=true&theme=github_dark" alt="Dostonbek's GitHub stats"/>
-</p>
-
----
 
 ### 🔗 Let's connect
 
-- [Leetcode](https://leetcode.com/TurgunovDostonbek/)
-- [LinkedIn (optional)]([https://linkedin.com/in/your-link](https://www.linkedin.com/feed/))
-- [Telegram (optional)](@Tme0813)
+- 📬 Telegram: [@Tme0813](https://t.me/Tme0813)
+- 💼 LinkedIn: [linkedin.com](https://www.linkedin.com/feed/)
+- 🧠 Codewars: [codewars.com](https://www.codewars.com/dashboard)
+  
 
 ---
 
