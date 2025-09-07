@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning ** Next.js & TypeScript & Tailwind CSS & Algorithm & Data Structures **
 - 💡 I enjoy solving coding problems on [*** Leetcode ***](https://leetcode.com/TurgunovDostonbek/)
 - 💡 I enjoy solving coding problems on [*** Codewars ***](https://www.codewars.com/dashboard)
-- 📫 How to reach me: ****...****
 - ⚡ Fun fact: I love turning coffee into code ☕️💻
 
 ---
