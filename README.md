@@ -6,8 +6,6 @@
 - 💡 I enjoy solving coding problems on [*** Leetcode ***](https://leetcode.com/TurgunovDostonbek/)
 - 💡 I enjoy solving coding problems on [*** Codewars ***](https://www.codewars.com/dashboard)
 - ⚡ Fun fact: I love turning coffee into code ☕️💻
-- ⚡ Fun fact: I love turning coffee into code ☕️💻
-- ⚡ Fun fact: I love turning coffee into code ☕️💻
 ---
 
 ### 🛠️ Languages & Tools
