@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Turgunov Dostonbek...</h1>
-<h3 align="center">A passionate Frontend Developer from Uzbekistan</h3>
+<h3 align="center">Frontend Developer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on **JavaScript & React projects**
-- 🌱 I’m currently learning ** Next.js & TypeScript & Tailwind CSS & Algorithm & Data Structures **
-- 💡 I enjoy solving coding problems on [*** Leetcode ***](https://leetcode.com/TurgunovDostonbek/)
-- 💡 I enjoy solving coding problems on [*** Codewars ***](https://www.codewars.com/dashboard)
-- ⚡ Fun fact: I love turning coffee into code ☕️💻
 ---
 
 
