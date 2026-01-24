@@ -11,7 +11,7 @@
 ---
 
 ### 🔗 Let's connect
-- 📬 [Telegram](https://t.me/Tme0813) &nbsp; 💼 [LinkedIn](https://www.linkedin.com/feed/) &nbsp; 📝 [Teletype blog](https://teletype.in/@turgunovdostonbek) &nbsp; 🌐 [Portfolio](https://portfolio1398.vercel.app/) &nbsp; 🧠 [LeetCode](https://leetcode.com/u/TurgunovDostonbek) &nbsp; 🧩 [Codewars](https://www.codewars.com/dashboard)
+- 📬 [Telegram](https://t.me/Tme0813) &nbsp; 📸 [Instagram](https://instagram.com/USERNAME) &nbsp;  &nbsp; 💼 [LinkedIn](https://www.linkedin.com/feed/) &nbsp; 📝 [Teletype blog](https://teletype.in/@turgunovdostonbek) &nbsp; 🌐 [Portfolio](https://portfolio1398.vercel.app/) &nbsp; 🧠 [LeetCode](https://leetcode.com/u/TurgunovDostonbek) &nbsp; 🧩 [Codewars](https://www.codewars.com/dashboard)
 
 ---
 
