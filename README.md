@@ -8,12 +8,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,reactrouter&theme=light" />
 </p>
 
-<h1 align="left">🎨 Styling</h1>
+# 🎨 Styling
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tailwindcss,bootstrap,sass,less,styledcomponents,materialui&theme=light" />
 </p>
 
-<h1 align="left">🛠️ Development Tools</h1>
+# 🛠️ Development Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vite,webpack,npm,git,github,md,vscode&theme=light" />
 </p>
