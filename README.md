@@ -4,23 +4,20 @@
 ---
 
 ### 🌐 Core Technologies
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux&theme=light" />
 </p>
 
 ### 🎨 Styling
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=tailwindcss,bootstrap,sass,less,styledcomponents&theme=light" />
 </p>
 
 ### 🛠️ Development Tools
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vite,webpack,npm,git,github,md&theme=light" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
-</p>
 
 ---
 
