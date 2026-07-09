@@ -3,17 +3,19 @@
 
 ---
 
-### 🌐 Core Technologies
+<h1 align="center">🌐 Core Technologies</h1>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux&theme=light" />
 </p>
 
-### 🎨 Styling
+
+<h1 align="center">🎨 Styling</h1>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tailwindcss,bootstrap,sass,less,styledcomponents&theme=light" />
 </p>
 
-### 🛠️ Development Tools
+
+<h1 align="center">🛠️ Development Tools</h1>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vite,webpack,npm,git,github,md&theme=light" />
 </p>
