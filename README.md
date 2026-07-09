@@ -3,21 +3,29 @@
 
 ---
 
-<h1 align="center" style="font-weight:800;">🌐 Core Technologies</h1>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux&theme=light" />
+<h1 align="left">🌐 Core Technologies</h1>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,reactrouter&theme=light" />
 </p>
 
-
-<h1 align="center" style="font-weight:800;">🎨 Styling</h1>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwindcss,bootstrap,sass,less,styledcomponents&theme=light" />
+<h1 align="left">🎨 Styling</h1>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwindcss,bootstrap,sass,less,styledcomponents,materialui&theme=light" />
 </p>
 
+<!-- Shadcn/UI uchun skillicons.dev da ikonka mavjud emas -->
+<p align="left">
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+</p>
 
-<h1 align="center" style="font-weight:800;">🛠️ Development Tools</h1>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vite,webpack,npm,git,github,md&theme=light" />
+<h1 align="left">🛠️ Development Tools</h1>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vite,webpack,npm,git,github,md,vscode&theme=light" />
+</p>
+
+<!-- Prettier uchun skillicons.dev da ikonka mavjud emas -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" />
 </p>
 
 
