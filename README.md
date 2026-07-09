@@ -16,7 +16,6 @@
 ### ⚡ State Management
 <p align="left">
   <img src="https://skillicons.dev/icons?i=redux&theme=light" />
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
 </p>
 
 ### 📦 Build Tools & Package Manager
