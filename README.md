@@ -8,15 +8,15 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,reactrouter&theme=light" />
 </p>
 
-# 🎨 Styling
-<p align="left">
+// # 🎨 Styling
+<!-- <p align="left">
   <img src="https://skillicons.dev/icons?i=tailwindcss,bootstrap,sass,less,styledcomponents,materialui&theme=light" />
-</p>
+</p> -->
 
-# 🛠️ Development Tools
-<p align="left">
+// # 🛠️ Development Tools
+<!-- <p align="left">
   <img src="https://skillicons.dev/icons?i=vite,webpack,npm,git,github,md,vscode&theme=light" />
-</p>
+</p> -->
 
 
 
