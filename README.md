@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" />
 </p>
 
-
 ---
 
 ### 🔗 Let's connect
