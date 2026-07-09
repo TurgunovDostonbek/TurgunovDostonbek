@@ -3,34 +3,23 @@
 
 ---
 
-### 🌐 Frontend
+### 🌐 Core Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux&theme=light" />
 </p>
 
-### 🎨 CSS Frameworks & Styling
+### 🎨 Styling
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,sass,less,styledcomponents&theme=light" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss,bootstrap,sass,less,styledcomponents&theme=light" />
 </p>
 
-### ⚡ State Management
+### 🛠️ Development Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=redux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vite,webpack,npm,git,github,md&theme=light" />
 </p>
 
-### 📦 Build Tools & Package Manager
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vite,webpack,npm&theme=light" />
-</p>
-
-### 🔧 Version Control
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github&theme=light" />
-</p>
-
-### 📝 Documentation
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=md&theme=light" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
 </p>
 
 ---
