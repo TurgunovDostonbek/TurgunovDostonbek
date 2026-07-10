@@ -8,6 +8,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,reactrouter&theme=light" />
 </p>
 
+<h1 align="left">🤖 AI Tools</h1>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,openai&theme=light" />
+</p>
+
 <!-- 🎨 Styling -->
 <!-- <p align="left">
   <img src="https://skillicons.dev/icons?i=tailwindcss,bootstrap,sass,less,styledcomponents,materialui&theme=light" />
