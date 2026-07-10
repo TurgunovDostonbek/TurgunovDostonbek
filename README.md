@@ -8,9 +8,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,reactrouter&theme=light" />
 </p>
 
-<h1 align="left">🤖 AI Tools</h1>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,openai&theme=light" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
 <!-- 🎨 Styling -->
