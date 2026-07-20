@@ -5,7 +5,7 @@
 
  # 🌐 𝗖𝗼𝗿𝗲 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,reactrouter&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,vue,reactrouter&theme=light" />
 </p>
 
 
